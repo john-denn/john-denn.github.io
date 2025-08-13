@@ -1,0 +1,19 @@
+---
+title: 'Blog Post number 1'
+date: 2025-08-12
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+SECOND ONE
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
